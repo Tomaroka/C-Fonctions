@@ -1,3 +1,3 @@
 # C-Fonctions
 
-Various types of algorithmes in C for different problems 
+Various types of algorithm in C which they aim to solving different problems 
