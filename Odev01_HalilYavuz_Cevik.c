@@ -2,7 +2,7 @@
  * Odev01_HalilYavuz_Cevik.c
  *
  *  Created on: Oct 2, 2014
- *      Author: YÇevik
+ *      Author: YÇ
  */
 
 #include <stdio.h>
