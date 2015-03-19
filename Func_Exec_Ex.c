@@ -1,4 +1,4 @@
-/* Beginner Level Exec() function
+/* Beginner Level Exec() Example
  *
  *  User will insert the Website name he/she want to enter on firefox
  *
