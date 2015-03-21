@@ -1,4 +1,4 @@
-/* Beginner Level Exec() Example
+/* Beginner Level Exec() function
  *
  *  User will insert the Website name he/she want to enter on firefox
  *
@@ -29,9 +29,11 @@ int main(int argc, const char *argv[])
 
 			site = opensite(input);
 
+			
+			// Usage of execlp & execvp functions
 			execlp ("firefox", "firefox",site, NULL);
-	    	char *args[] = {"firefox", site, NULL};
-	    	execvp ("firefox", args);
+	    		char *args[] = {"firefox", site, NULL};
+	    		execvp ("firefox", args);
 
 	exit(EXIT_SUCCESS);
 }
